@@ -1,0 +1,55 @@
+commit 8bbc232cf81d488c2dcbce5d43396e99390beaa7
+Merge: cc73550 1e6e6f6
+Author: durcak <durcaktomas@gmail.com>
+Date:   Fri Apr 24 21:35:25 2015 +0200
+
+    Merge branch 'master' of https://github.com/LuboViluda/TournamentManager
+    
+    Conflicts:
+    	README.md
+
+commit cc7355015b6722fd6b6249bd64f167bc69f8a0ab
+Author: durcak <durcaktomas@gmail.com>
+Date:   Fri Apr 24 21:34:23 2015 +0200
+
+    skuska
+
+commit 1e6e6f6b58414d0167dab03b244df21f087e2079
+Author: xdurcak <lukas.durcak@gmail.com>
+Date:   Fri Apr 24 21:34:09 2015 +0200
+
+    SKUSKA COMMIT
+    
+    SKUSKA COMMIT
+
+commit 592c3a3d6fdd92e3a5e8b522092d34649bbd993f
+Author: durcak <durcaktomas@gmail.com>
+Date:   Fri Apr 24 18:42:27 2015 +0200
+
+    readme
+
+commit 081a8178c34b25ed91c5931e19b45900b52c8940
+Author: durcak <durcaktomas@gmail.com>
+Date:   Fri Apr 24 18:40:19 2015 +0200
+
+    skuska gitu
+
+commit be20b1d4188a148b3fb4c437d09121453713e47b
+Author: Tomas Durcak <durcaktomas@gmail.com>
+Date:   Fri Apr 24 18:05:17 2015 +0200
+
+    Create README.md
+    
+    Creating readme file.
+
+commit f3412e71472f4e814023d0951658db1ddd67e274
+Author: Lubomir Viluda <lubo.viluda@gmail.com>
+Date:   Fri Apr 24 17:34:52 2015 +0200
+
+    Initial commit
+
+commit 5167ca258f23dd941499c00ed86de6ac17e46e6d
+Author: Lubomir Viluda <lubo.viluda@gmail.com>
+Date:   Fri Apr 24 17:34:03 2015 +0200
+
+    :lollipop: Added .gitattributes & .gitignore files
