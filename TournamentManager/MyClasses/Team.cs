@@ -29,6 +29,9 @@ namespace TournamentManager
             Group = 0;      // 0 -> hasn't group now
             GA = GF = GP = Diff = Points = 0;
         }
+
+        private Team() { }
+
         public int CompareTo(Team other)
         {   // first point, difference in score, goal in score
             if (this.Points > other.Points)

@@ -5,19 +5,20 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using System.IO;
+using System.Xml;
+using System.Xml.Serialization;
+using System.Runtime.Serialization;
 
 namespace TournamentManager
 {
     public class Save
     {
         public Save(string fileName, List<Match> Matches)
-        {           
-            string buffer = JsonConvert.SerializeObject(Matches);
-            using (var outfile = new StreamWriter(fileName + "_matches.txt"))
-            {
-                outfile.Write(buffer);
-                outfile.Close();
-            }
+        {
+            XmlSerializer xs = new XmlSerializer(typeof(List<Match>));
+            TextWriter tw = new StreamWriter(fileName + "_matches.xml");
+            xs.Serialize(tw, Matches);
+            tw.Close();
         }
     }
 }

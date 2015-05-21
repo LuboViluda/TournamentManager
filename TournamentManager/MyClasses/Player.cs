@@ -17,5 +17,7 @@ namespace TournamentManager
             Name = parName;
             GFbyPlayer = 0;
         }
+
+        private Player() { }
     }
 }

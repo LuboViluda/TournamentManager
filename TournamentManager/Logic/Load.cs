@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using Newtonsoft.Json;
+using System.Xml.Serialization;
 
 namespace TournamentManager
 {
@@ -17,23 +18,12 @@ namespace TournamentManager
         }
         public List<Match> LoadMatches()
         {
-            string buffer;
-            try
+            using (var sr = new StreamReader(FileName + "_matches.xml"))
             {
-                using (var openedFile = new StreamReader(FileName + "_matches.txt"))
-                {
-                    buffer = openedFile.ReadToEnd();
-                    openedFile.Close();
-                }
-            }
-            catch (FileNotFoundException)
-            {
-                var myNewForm = new WarningEmptyTeamAddForm("File no foud, load matches error");
-                myNewForm.ShowDialog();
-                return new List<Match>();
-            }
-            var listOfItems = JsonConvert.DeserializeObject<List<Match>>(buffer);
-            return listOfItems;
+                XmlSerializer xs = new XmlSerializer(typeof(List<Match>));
+                var listOfItems = (List<Match>)xs.Deserialize(sr);
+                return listOfItems;
+            }         
         }
     }
 }
