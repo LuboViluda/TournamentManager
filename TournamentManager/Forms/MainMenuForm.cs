@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
+/// <summary>
+/// trieda, ktora ma za ulohu pripravit zapasy pre PlayOff
+/// </summary>
+
 namespace TournamentManager
 {
     public partial class MainMenuForm : Form
