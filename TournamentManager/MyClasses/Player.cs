@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// trieda, ktora si uklada informacie o jednotlivych hracoch, napriklad meno hraca, 
+/// pocet strelenych golov, pocet asistencii
+/// </summary>
+
 namespace TournamentManager
 {
     public class Player 
