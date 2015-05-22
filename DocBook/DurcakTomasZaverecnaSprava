@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter>
+  <title>Záverečná správa -- Tomáš Durčák</title>
+ 
+  <section>
+    <title>Moja činnosť</title> 
+    <para>
+		Mojou úlohou na projekte TournamentManager bolo vedenie tímu. Taktiež som mal za úlohu upraviť výstup
+		našej aplikácie do formátu XML a postarať sa o grafický vzhľad aplikácie.
+    </para>
+  </section>
+ 
+  <section>
+    <title>Použité nástroje</title>
+    <para>
+    Použité nástroje:
+       <itemizedlist>
+          <listitem><para> Facebook -- komunikácia a riadenie tímu </para></listitem>
+          <listitem><para> Git -- verzovanie </para></listitem>
+	  <listitem><para> Visual Studio -- tvorba XML výstupu </para></listitem>
+	  <listitem><para> Adobe Photoshop -- tvorba grafiky </para></listitem>
+       </itemizedlist>
+    </para>
+  </section>
+ 
+  <section>
+    <title>Návrh aplikácie</title>
+    <para>
+		Zorganizoval som stretnutie nášho týmu. Na prvom stretnutí sme podrobne riešili návrh našej aplikácie. 
+		Po odsúhlasení som rozdelil úlohy jednotlivým členom.
+    </para>
+  </section>
+ 
+  <section>
+    <title>Tvorba XML výstupu</title>
+    <para>
+        	Do takmer hotovej aplikácie som doimplementoval funkcie Load and Save, ktoré ukladájú/načitávajú priebeh turnaja
+		vo formáte XML. Implementáciu som realizoval v prostredí Visual Studio.
+    </para>
+  </section>
+ 
+  <section>
+    <title>Zhodnotenie a prínos projektu:</title>
+    <para>
+       		Aplikácia sa v budúcosti aktívne využívať na malých florbalových turnajoch, ktoré sú organizované na internáte, kde bývame. Značne 			uľahčí organizáciu a pomôže organizátorom.
+    </para>
+  </section>
+ 
+</chapter>
