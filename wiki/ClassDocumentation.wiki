@@ -1,5 +1,3 @@
-#summary Description of slevyvokoli project.
-
 = Úvod = 
 
 Aplikácia TournamentManager umožňuje interaktivne riadiť florbalový turnaj. V rámci 
