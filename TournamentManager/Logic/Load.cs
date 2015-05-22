@@ -7,6 +7,10 @@ using System.IO;
 using Newtonsoft.Json;
 using System.Xml.Serialization;
 
+/// <summary>
+/// trieda, ktora nacita ulozeny turnaj zo suboru
+/// </summary>
+
 namespace TournamentManager
 {
     public class Load
