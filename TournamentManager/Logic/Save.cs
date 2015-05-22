@@ -9,6 +9,10 @@ using System.Xml;
 using System.Xml.Serialization;
 using System.Runtime.Serialization;
 
+/// <summary>
+/// trieda, ktora ulozi aktualny turnaj do suboru so zadanym menom a Listov zapasov
+/// </summary>
+
 namespace TournamentManager
 {
     public class Save
