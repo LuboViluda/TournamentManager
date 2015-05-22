@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter>
+  <title>Záverečná správa - Lukáš Durčák</title>
+ 
+  <section>
+    <title>Moja činnosť</title> 
+    <para>
+		Pri prvom stretnutí spolu s mojimi kolegami z riešiteľského tímu sme diskutovali o návrhu aplikácie
+		a rozdelení úloh. Mojou úlohou na tomto projekte bolo tvorenie wiki stránky a dokumentovanie postupu práce.
+		Po vypracovaní aplikácie som vytvoril prezentáciu k projektu.
+    </para>
+  </section>
+ 
+  <section>
+    <title>Použité nástroje</title>
+    <para>
+    Použité nástroje:
+       <itemizedlist>
+          <listitem><para> Facebook – väčšina komunikácie medzi riešiteľským tímom </para></listitem>
+          <listitem><para> Git - verzovanie, tvorba wiki </para></listitem>
+       </itemizedlist>
+    </para>
+  </section>
+  
+    <section>
+    <title>Tvorba wiki</title>
+    <para>
+		Pomocou verzovacieho systému som postupne vypracovával wiki stránku projektu. Stránka obsahovala popis projektu,
+		návrh a rozpis úloh pre jednotlivých členov.
+    </para>
+  </section>
+ 
+  <section>
+    <title>Návrh aplikácie</title>
+    <para>
+		 Chceli sme vytvoriť aplikáciu ktorú by sme využili v praxi. Keďže vačšia časť členov našej skupiny
+		 hráva rekreačne floorball a podieľa sa na organizácii menšieho turnaja, rozhodli sme sa pre aplikáciu
+		 ktorú by sme využili. Stanovili sme si požiadavky aké by mala aplikácia splňať náš programátor začal s
+		 implementáciou.	
+    </para>
+  </section>
+ 
+  <section>
+    <title>Tvorba prezentácia</title>
+    <para>
+        Na záver, po naprogramovaní všetkých častí a otestovaní aplikácie som vytvoril prezentáciu.
+    </para>
+  </section>
+ 
+  <section>
+    <title>Zhodnotenie a prínos projektu</title>
+    <para>
+        Práca na tomto projekte bola pre mňa určite veľmi zaujímavou a prínosnou. Mal som prvý krát možnosť vyskúšať si 
+		prácu vo väčšom tíme spoločne so všetkým, čo tímova práca obnáša. Kladne hodnotím prístup všetkých členov, ktorým 
+		by som chcel touto cestou poďakovať za spoluprácu.
+    </para>
+  </section>
+ 
+</chapter>
+
