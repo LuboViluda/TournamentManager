@@ -2,7 +2,7 @@
 
 Záverečný projekt z predmetu PB138-Moderné značkovacie jazky.
 
-Aplikácia pre riadenie florbalového turnaja.
+Aplikácia pre správu florbalového turnaja.
 
 Stručný popis:
 Aplikace umožní interaktivně řídit florbalový turnaj. Zároveň bude ukládat údaje o turnaji a bude 
