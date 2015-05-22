@@ -5,6 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Media;
 
+/// <summary>
+/// trieda, ktora si uklada informacie o tyme, napriklad zoznam hracov v tyme, meno tymu, skupinu, atd
+/// </summary>
+
 namespace TournamentManager
 {
     public class Clock
