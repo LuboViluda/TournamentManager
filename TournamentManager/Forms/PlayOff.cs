@@ -8,6 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/// <summary>
+/// trieda, ktora sa stara o zapasy turnaja, osobitne o muzske a zenske zapasy
+/// </summary>
+
 namespace TournamentManager
 {
     public partial class PlayOff : Form
