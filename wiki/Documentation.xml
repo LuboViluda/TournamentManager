@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter>
+  <title>Uvod</title>
+ 
+  <section>
+    <para>
+	Užívateľ manuálne zadá mená tímov a ich hráčov. Aplikácia rozlosuje skupiny a čas jednotlivých zápasov. Jednotlivé zápasy je možné spustiť potomocou tlačidla ,,RUN". Po začatí zápasu sa spustí časomiera, ktorú je možné kedykoľvek zastaviť v priebehu zápasu. Užívateľ je schopný pomocou aplikácie pripočítavať strelené góly členom daného tímu. Počas celého turnaja sú užívateľovi dostupné štatistiky jednotlivých zápasov a strelených gólov. Po skončení základnej skupiny aplikácia vygeneruje play-off turnaja, ktoré funguje na rovnakom princípe. Kedykoľvek počas turnaja je možné jeho priebeh uložiť vo forme XML, alebo načítať už existujúci turnaj. Všetky údaje o turnaji sú po skončení uložené vo formáte XML.
+    </para>
+  </section>
+ 
+  <title>Popis tried</title>
+  <section>
+    <para>
+       <itemizedlist>
+	      <listitem><para>Team.cs - trieda, ktora si uklada informacie o tyme, napriklad zoznam hracov v tyme, meno tymu, skupinu, atd</para></listitem>
+              <listitem><para>Player.cs - trieda, ktora si uklada informacie o jednotlivych hracoch, napriklad meno hraca, pocet strelenych golov, pocet asistencii </para></listitem>
+              <listitem><para>Match.cs - trieda, ktora si uklada informacie o zapase, napriklad tymy ktore proti sebe hrali, pocet golov tymov a jednotlivych hracov, taktiez ci bol zapas uz odohrany</para></listitem>
+              <listitem><para>Clock.cs - trieda, ktora odpocitava cas zapasu</para></listitem>
+              <listitem><para>Save.cs - trieda, ktora ulozi aktualny turnaj do suboru so zadanym menom a Listov zapasov.</para></listitem>
+              <listitem>Load.cs - trieda, ktora nacita ulozeny turnaj zo suboru<para></para></listitem>
+              <listitem><para>PlayOff.cs - trieda, ktora sa stara o zapasy turnaja, osobitne o muzske a zenske zapasy</para></listitem>
+              <listitem><para>MainMenuForm.cs - trieda, ktora ma za ulohu pripravit zapasy pre PlayOff</para></listitem>
+       </itemizedlist>
+    </para>
+  </section>
+</chapter>
+
+ty sprav v docbooku len  nejaky uvod, popis programu atd, plus opis nejaky zakladnych tried, plus do dokumetaciu do kodu
