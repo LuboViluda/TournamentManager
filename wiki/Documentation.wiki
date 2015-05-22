@@ -1,9 +1,0 @@
-#summary Description of slevyvokoli project.
-
-= Úvod = 
-
-Aplikácia TournamentManager umožňuje interaktivne riadiť florbalový turnaj. V rámci 
-jedného turnaja aplikácia umožní riešiť rozlosovanie skupín, play-off a finále. Zároveň 
-ukladá údaje o turnaji a eviduje históriu turnajov vrátane kompletných detailov.
-
-= Popis tried =
