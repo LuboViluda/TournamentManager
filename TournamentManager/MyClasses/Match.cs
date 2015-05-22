@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// trieda, ktora si uklada informacie o zapase, napriklad tymy ktore proti sebe hrali, 
+/// pocet golov tymov a jednotlivych hracov, taktiez ci bol zapas uz odohrany
+/// </summary>
+
 namespace TournamentManager
 {
     public class Match
