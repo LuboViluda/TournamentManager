@@ -1,0 +1,18 @@
+<b>TournamentManager:</b> Aplikácia pre správu florbalového turnaja
+
+<b>Vede: </b> RNDr. Filip Nguyen, učo 208428 <br/>
+
+<b>Vyvojari</b><br/>
+Tomáš Durčák, učo 410304 <br/>
+Ľubomír Viluda, učo 409910 <br/>
+Lukáš Durčák, učo 410117 <br/>
+Tomáš Majerník, učo 422629 <br/>
+
+<b>Prednášajúci</b><br/>
+Mgr. Luděk Bártek, Ph.D. <br/>
+doc. RNDr. Tomáš Pitner, Ph.D. <br/>
+RNDr. Adam Rambousek <br/>
+
+
+<b>Zadání:</b>
+Aplikace umožní interaktivně řídit florbalový turnaj. Zároveň bude ukládat údaje o turnaji a bude evidovat historii turnajů včetně kompletních detailů. V rámci jednoho turnaje aplikace umožní řešit: Rozlosovanie skupín, play-off, finále

@@ -1,0 +1,5 @@
+<b>Vývojári</b><br/>
+<li>Tomáš Durčák, učo 410304   - team leader, návrh xml</li><br/>
+<li>Ľubomír Viluda, učo 409910 - programátor, návrh aplikácie</li><br/>
+<li>Lukáš Durčák, učo 410117   - wiki stránky, prezentácia</li><br/>
+<li>Tomáš Majerník, učo 422629 - dokumentácia, popis tried</li><br/>

@@ -1,0 +1,26 @@
+<h1>Návrh aplikácie:</h1><br><br>
+
+<ul>
+<li><b>Programovací jazyk: </b></li>
+
+C#
+
+<li><b>Typ aplikácie:</b></li> 
+
+Desktop
+
+<li><b>Platforma:</b></li> 
+
+Windows
+
+<li><b>Popis:</b></li>
+Užívateľ manuálne zadá mená tímov a ich hráčov. Aplikácia rozlosuje skupiny a čas jednotlivých
+zápasov. Jednotlivé zápasy je možné spustiť potomocou tlačidla ,,RUN". Po začatí zápasu  sa spustí
+časomiera, ktorú je možné kedykoľvek zastaviť v priebehu zápasu. Užívateľ je schopný pomocou aplikácie
+pripočítavať strelené góly členom daného tímu. Počas celého turnaja sú užívateľovi dostupné štatistiky
+jednotlivých zápasov a strelených gólov. Po skončení základnej skupiny aplikácia vygeneruje play-off
+turnaja, ktoré funguje na rovnakom princípe. Kedykoľvek počas turnaja je možné jeho priebeh uložiť vo forme
+XML, alebo načítať už existujúci turnaj. Všetky údaje o turnaji sú po skončení uložené vo formáte XML.
+</ul>
+
+<br/>
