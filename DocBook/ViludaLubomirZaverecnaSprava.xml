@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter>
+  <title>Záverečná správa - Ľubomír Viluda</title>
+ 
+  <section>
+    <title>Moja činnosť</title> 
+    <para>
+       Mojou prácou na projekte bol návrh aplikácie (objektov navrh, navrh tried) a programovanie časti aplikácie. Podľa zadania bol zvolený programovací jazyk C# ako IDE bolo použité
+       Visual Studio 2013.
+    </para>
+  </section>
+ 
+  <section>
+    <title>Použité nástroje</title>
+    <para>
+    Použité nástroje:
+       <itemizedlist>
+          <listitem><para> Visual Studio 2013 - vývojové prostredie, programovanie aplikácie </para></listitem>
+          <listitem><para> GitHub - verzovanie </para></listitem>
+       </itemizedlist>
+    </para>
+  </section>
+ 
+  <section>
+    <title>Programovanie</title>
+    <para>
+        Do aplikácie boli postupne doimplementované funkcie podľa návrhu a zadania, prípadne podľa pripomienok od kolegov z tímu. Prvé boli 
+        implementované triedy v MyClasses a Logic, ktoré boli neskôr použíté v jednotlivých forms. Design forms bol postupne upravovaný aby
+        bolo aplikácia, čo najlepšie použiteľná.
+    </para>
+  </section>
+		
+  <section>
+    <title>Zhodnotenie a prínos projektu</title>
+    <para>
+        Prácu na projekte a v tíme hodnotím veľmi pozitívne. V spolupráci s kolegami nebol žiadny problém. Všetci dodržali dohodnuté termíny a boli 
+        nápomocný pri testovaní aplikácie.
+    </para>
+  </section>
+ 
+</chapter>
+
